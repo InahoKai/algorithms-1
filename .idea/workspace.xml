@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f56b9056-4c01-4c53-86a5-bc1efc744285" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f56b9056-4c01-4c53-86a5-bc1efc744285" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -385,7 +383,7 @@
       <workItem from="1600400002872" duration="574000" />
       <workItem from="1600446469699" duration="299000" />
       <workItem from="1600452499655" duration="4184000" />
-      <workItem from="1600464363937" duration="2284000" />
+      <workItem from="1600464363937" duration="2587000" />
     </task>
     <servers />
   </component>
@@ -413,28 +411,28 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="507" y="208" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1600290076530" />
-    <state width="1876" height="230" key="GridCell.Tab.0.bottom" timestamp="1600466639086">
+    <state width="1876" height="230" key="GridCell.Tab.0.bottom" timestamp="1600466954296">
       <screen x="-247" y="-1200" width="1920" height="1200" />
     </state>
-    <state width="1876" height="230" key="GridCell.Tab.0.bottom/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600466639086" />
+    <state width="1876" height="230" key="GridCell.Tab.0.bottom/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600466954296" />
     <state width="1396" height="159" key="GridCell.Tab.0.bottom/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600457636364" />
     <state width="1396" height="159" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600457156936" />
-    <state width="1876" height="230" key="GridCell.Tab.0.center" timestamp="1600466639084">
+    <state width="1876" height="230" key="GridCell.Tab.0.center" timestamp="1600466954295">
       <screen x="-247" y="-1200" width="1920" height="1200" />
     </state>
-    <state width="1876" height="230" key="GridCell.Tab.0.center/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600466639084" />
+    <state width="1876" height="230" key="GridCell.Tab.0.center/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600466954295" />
     <state width="1396" height="159" key="GridCell.Tab.0.center/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600457636360" />
     <state width="1396" height="159" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600457156933" />
-    <state width="1876" height="230" key="GridCell.Tab.0.left" timestamp="1600466639084">
+    <state width="1876" height="230" key="GridCell.Tab.0.left" timestamp="1600466954294">
       <screen x="-247" y="-1200" width="1920" height="1200" />
     </state>
-    <state width="1876" height="230" key="GridCell.Tab.0.left/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600466639084" />
+    <state width="1876" height="230" key="GridCell.Tab.0.left/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600466954294" />
     <state width="1396" height="159" key="GridCell.Tab.0.left/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600457636358" />
     <state width="1396" height="159" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600457156931" />
-    <state width="1876" height="230" key="GridCell.Tab.0.right" timestamp="1600466639085">
+    <state width="1876" height="230" key="GridCell.Tab.0.right" timestamp="1600466954296">
       <screen x="-247" y="-1200" width="1920" height="1200" />
     </state>
-    <state width="1876" height="230" key="GridCell.Tab.0.right/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600466639085" />
+    <state width="1876" height="230" key="GridCell.Tab.0.right/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600466954296" />
     <state width="1396" height="159" key="GridCell.Tab.0.right/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600457636362" />
     <state width="1396" height="159" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600457156935" />
     <state x="221" y="86" key="SettingsEditor" timestamp="1600290082104">
@@ -456,7 +454,7 @@
     <SUITE FILE_PATH="coverage/algoritms$pairs.coverage" NAME="pairs Coverage Results" MODIFIED="1600290534145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcodestuff$KidsWithCandie.coverage" NAME="KidsWithCandie Coverage Results" MODIFIED="1600140087673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$restoreString.coverage" NAME="restoreString Coverage Results" MODIFIED="1600465884614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritms$desinationCity.coverage" NAME="desinationCity Coverage Results" MODIFIED="1600466639075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritms$desinationCity.coverage" NAME="desinationCity Coverage Results" MODIFIED="1600466788764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$numsWithEvenDigits.coverage" NAME="numsWithEvenDigits Coverage Results" MODIFIED="1600454450535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcodestuff$removeOuterParentheses.coverage" NAME="removeOuterParentheses Coverage Results" MODIFIED="1600144374178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcodestuff$shuffe.coverage" NAME="shuffe Coverage Results" MODIFIED="1600138572583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
