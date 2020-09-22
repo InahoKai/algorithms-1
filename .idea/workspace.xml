@@ -67,7 +67,7 @@
       <recent name="$PROJECT_DIR$/easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fizzBuzzzzzz">
+  <component name="RunManager" selected="Python.islandPerimeter">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desinationCity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="candy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algoritms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,12 +144,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hard" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/medium/desinationCity.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hard/candy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,29 +202,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="restoreString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algoritms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/restoreString.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sortArrayByParity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="islandPerimeter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algoritms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,7 +215,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/sortArrayByParity.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/islandPerimeter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stringCompression11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algoritms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hard" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hard/stringCompression11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,11 +363,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.islandPerimeter" />
+        <item itemvalue="Python.stringCompression11" />
+        <item itemvalue="Python.candy" />
         <item itemvalue="Python.fizzBuzzzzzz" />
         <item itemvalue="Python.tribinnoci" />
-        <item itemvalue="Python.sortArrayByParity" />
-        <item itemvalue="Python.desinationCity" />
-        <item itemvalue="Python.restoreString" />
       </list>
     </recent_temporary>
   </component>
@@ -395,7 +395,10 @@
       <workItem from="1600486901857" duration="2143000" />
       <workItem from="1600496417080" duration="62000" />
       <workItem from="1600545757502" duration="121000" />
-      <workItem from="1600553764880" duration="1190000" />
+      <workItem from="1600553764880" duration="16855000" />
+      <workItem from="1600642896267" duration="1727000" />
+      <workItem from="1600798179035" duration="18000" />
+      <workItem from="1600816653466" duration="1257000" />
     </task>
     <servers />
   </component>
@@ -423,63 +426,98 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="507" y="208" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1600290076530" />
-    <state width="1396" height="305" key="GridCell.Tab.0.bottom" timestamp="1600555024481">
+    <state width="1396" height="166" key="GridCell.Tab.0.bottom" timestamp="1600817976329">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1876" height="230" key="GridCell.Tab.0.bottom/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600489671679" />
-    <state width="1396" height="159" key="GridCell.Tab.0.bottom/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600457636364" />
-    <state width="1396" height="305" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600555024481" />
-    <state width="1396" height="305" key="GridCell.Tab.0.center" timestamp="1600555024480">
+    <state width="1396" height="192" key="GridCell.Tab.0.bottom/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600640710065" />
+    <state width="1396" height="166" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600817976329" />
+    <state width="1396" height="166" key="GridCell.Tab.0.center" timestamp="1600817976327">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1876" height="230" key="GridCell.Tab.0.center/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600489671678" />
-    <state width="1396" height="159" key="GridCell.Tab.0.center/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600457636360" />
-    <state width="1396" height="305" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600555024480" />
-    <state width="1396" height="305" key="GridCell.Tab.0.left" timestamp="1600555024479">
+    <state width="1396" height="192" key="GridCell.Tab.0.center/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600640710064" />
+    <state width="1396" height="166" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600817976327" />
+    <state width="1396" height="166" key="GridCell.Tab.0.left" timestamp="1600817976326">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1876" height="230" key="GridCell.Tab.0.left/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600489671677" />
-    <state width="1396" height="159" key="GridCell.Tab.0.left/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600457636358" />
-    <state width="1396" height="305" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600555024479" />
-    <state width="1396" height="305" key="GridCell.Tab.0.right" timestamp="1600555024480">
+    <state width="1396" height="192" key="GridCell.Tab.0.left/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600640710063" />
+    <state width="1396" height="166" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600817976326" />
+    <state width="1396" height="166" key="GridCell.Tab.0.right" timestamp="1600817976328">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1876" height="230" key="GridCell.Tab.0.right/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600489671679" />
-    <state width="1396" height="159" key="GridCell.Tab.0.right/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600457636362" />
-    <state width="1396" height="305" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600555024480" />
+    <state width="1396" height="192" key="GridCell.Tab.0.right/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600640710064" />
+    <state width="1396" height="166" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600817976328" />
+    <state width="1396" height="286" key="GridCell.Tab.1.bottom" timestamp="1600817704358">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="286" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600817704358" />
+    <state width="1396" height="286" key="GridCell.Tab.1.center" timestamp="1600817704356">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="286" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1600817704356" />
+    <state width="1396" height="286" key="GridCell.Tab.1.left" timestamp="1600817704354">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="286" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1600817704354" />
+    <state width="1396" height="286" key="GridCell.Tab.1.right" timestamp="1600817704357">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="286" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1600817704357" />
     <state x="221" y="86" key="SettingsEditor" timestamp="1600290082104">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600290082104" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1600396459065">
+    <state x="517" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600563762580">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1600396459065" />
+    <state x="517" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1600563762580" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1600643676881">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600640527671" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1600643676881" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/leetcodestuff$main.coverage" NAME="fib Coverage Results" MODIFIED="1600137391838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$isPowerOfFour.coverage" NAME="isPowerOfFour Coverage Results" MODIFIED="1600465580174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritms$tribinnoci.coverage" NAME="tribinnoci Coverage Results" MODIFIED="1600488691438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
-    <SUITE FILE_PATH="coverage/algoritms$sum2darray.coverage" NAME="sum2darray Coverage Results" MODIFIED="1600291295909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcodestuff$decompressRLElist.coverage" NAME="decompressRLElist Coverage Results" MODIFIED="1600143651218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritms$numOfStudentsDoingHomework.coverage" NAME="numOfStudentsDoingHomework Coverage Results" MODIFIED="1600455019957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcodestuff$ZigZag.coverage" NAME="ZigZag Coverage Results" MODIFIED="1600137964284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$pairs.coverage" NAME="pairs Coverage Results" MODIFIED="1600290534145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$sortArrayByParity.coverage" NAME="sortArrayByParity Coverage Results" MODIFIED="1600487888422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/leetcodestuff$KidsWithCandie.coverage" NAME="KidsWithCandie Coverage Results" MODIFIED="1600140087673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritms$restoreString.coverage" NAME="restoreString Coverage Results" MODIFIED="1600465884614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$desinationCity.coverage" NAME="desinationCity Coverage Results" MODIFIED="1600466788764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritms$numsWithEvenDigits.coverage" NAME="numsWithEvenDigits Coverage Results" MODIFIED="1600454450535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcodestuff$removeOuterParentheses.coverage" NAME="removeOuterParentheses Coverage Results" MODIFIED="1600144374178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritms$fizzBuzzzzzz.coverage" NAME="fizzBuzzzzzz Coverage Results" MODIFIED="1600555339805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/algoritms$fizzBuzzzzzz.coverage" NAME="fizzBuzzzzzz Coverage Results" MODIFIED="1600555597593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/leetcodestuff$shuffe.coverage" NAME="shuffe Coverage Results" MODIFIED="1600138572583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritms$defangIp.coverage" NAME="defangIp Coverage Results" MODIFIED="1600291993964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritms$numsmaller.coverage" NAME="numsmaller Coverage Results" MODIFIED="1600389366848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$numOfStepsToReachZero.coverage" NAME="numOfStepsToReachZero Coverage Results" MODIFIED="1600464782470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$jewelsAndStones.coverage" NAME="jewelsAndStones Coverage Results" MODIFIED="1600454012504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$wordsFormedByChars.coverage" NAME="wordsFormedByChars Coverage Results" MODIFIED="1600456915071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$targetArrayGivenOrder.coverage" NAME="targetArrayGivenOrder Coverage Results" MODIFIED="1600453057189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$StrongPass.coverage" NAME="StrongPass Coverage Results" MODIFIED="1600297213890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$numOfIslands.coverage" NAME="numOfIslands Coverage Results" MODIFIED="1600396653117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcodestuff$main.coverage" NAME="fib Coverage Results" MODIFIED="1600137391838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritms$islandPerimeter.coverage" NAME="islandPerimeter Coverage Results" MODIFIED="1600817976315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/algoritms$tribinnoci.coverage" NAME="tribinnoci Coverage Results" MODIFIED="1600488691438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/algoritms$sum2darray.coverage" NAME="sum2darray Coverage Results" MODIFIED="1600291295909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritms$numOfStudentsDoingHomework.coverage" NAME="numOfStudentsDoingHomework Coverage Results" MODIFIED="1600455019957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcodestuff$ZigZag.coverage" NAME="ZigZag Coverage Results" MODIFIED="1600137964284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritms$candy.coverage" NAME="candy Coverage Results" MODIFIED="1600642904342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard" />
+    <SUITE FILE_PATH="coverage/leetcodestuff$KidsWithCandie.coverage" NAME="KidsWithCandie Coverage Results" MODIFIED="1600140087673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritms$restoreString.coverage" NAME="restoreString Coverage Results" MODIFIED="1600465884614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritms$numsWithEvenDigits.coverage" NAME="numsWithEvenDigits Coverage Results" MODIFIED="1600454450535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritms$stringCompression11.coverage" NAME="stringCompression11 Coverage Results" MODIFIED="1600644231150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard" />
+    <SUITE FILE_PATH="coverage/leetcodestuff$removeOuterParentheses.coverage" NAME="removeOuterParentheses Coverage Results" MODIFIED="1600144374178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritms$defangIp.coverage" NAME="defangIp Coverage Results" MODIFIED="1600291993964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritms$numsmaller.coverage" NAME="numsmaller Coverage Results" MODIFIED="1600389366848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
