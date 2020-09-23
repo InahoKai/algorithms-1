@@ -59,7 +59,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -67,7 +67,7 @@
       <recent name="$PROJECT_DIR$/easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.reverseInts">
+  <component name="RunManager" selected="Python.frickFractions">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,6 +180,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="frickFractions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algoritms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/medium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/medium/frickFractions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="islandPerimeter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algoritms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -238,28 +260,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/reverseInts.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="stringCompression11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algoritms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hard" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hard/stringCompression11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,11 +363,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.frickFractions" />
         <item itemvalue="Python.reverseInts" />
         <item itemvalue="Python.pyramid" />
         <item itemvalue="Python.floodFill" />
         <item itemvalue="Python.islandPerimeter" />
-        <item itemvalue="Python.stringCompression11" />
       </list>
     </recent_temporary>
   </component>
@@ -400,6 +400,11 @@
       <workItem from="1600798179035" duration="18000" />
       <workItem from="1600816653466" duration="4666000" />
       <workItem from="1600872863299" duration="491000" />
+      <workItem from="1600876496425" duration="507000" />
+      <workItem from="1600877997701" duration="26000" />
+      <workItem from="1600885185938" duration="6886000" />
+      <workItem from="1600892992971" duration="689000" />
+      <workItem from="1600904668883" duration="155000" />
     </task>
     <servers />
   </component>
@@ -427,50 +432,50 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="507" y="208" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1600290076530" />
-    <state width="1396" height="196" key="GridCell.Tab.0.bottom" timestamp="1600873885380">
+    <state width="1396" height="196" key="GridCell.Tab.0.bottom" timestamp="1600904731183">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1876" height="230" key="GridCell.Tab.0.bottom/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600489671679" />
+    <state width="1876" height="196" key="GridCell.Tab.0.bottom/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600891031168" />
     <state width="1396" height="192" key="GridCell.Tab.0.bottom/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600640710065" />
-    <state width="1396" height="196" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600873885380" />
-    <state width="1396" height="196" key="GridCell.Tab.0.center" timestamp="1600873885379">
+    <state width="1396" height="196" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600904731183" />
+    <state width="1396" height="196" key="GridCell.Tab.0.center" timestamp="1600904731181">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1876" height="230" key="GridCell.Tab.0.center/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600489671678" />
+    <state width="1876" height="196" key="GridCell.Tab.0.center/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600891031166" />
     <state width="1396" height="192" key="GridCell.Tab.0.center/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600640710064" />
-    <state width="1396" height="196" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600873885379" />
-    <state width="1396" height="196" key="GridCell.Tab.0.left" timestamp="1600873885377">
+    <state width="1396" height="196" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600904731181" />
+    <state width="1396" height="196" key="GridCell.Tab.0.left" timestamp="1600904731180">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1876" height="230" key="GridCell.Tab.0.left/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600489671677" />
+    <state width="1876" height="196" key="GridCell.Tab.0.left/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600891031165" />
     <state width="1396" height="192" key="GridCell.Tab.0.left/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600640710063" />
-    <state width="1396" height="196" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600873885377" />
-    <state width="1396" height="196" key="GridCell.Tab.0.right" timestamp="1600873885379">
+    <state width="1396" height="196" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600904731180" />
+    <state width="1396" height="196" key="GridCell.Tab.0.right" timestamp="1600904731182">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1876" height="230" key="GridCell.Tab.0.right/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600489671679" />
+    <state width="1876" height="196" key="GridCell.Tab.0.right/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600891031167" />
     <state width="1396" height="192" key="GridCell.Tab.0.right/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600640710064" />
-    <state width="1396" height="196" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600873885379" />
-    <state width="1396" height="286" key="GridCell.Tab.1.bottom" timestamp="1600822073121">
+    <state width="1396" height="196" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600904731182" />
+    <state width="1396" height="286" key="GridCell.Tab.1.bottom" timestamp="1600877014345">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="286" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600822073121" />
-    <state width="1396" height="286" key="GridCell.Tab.1.center" timestamp="1600822073121">
+    <state width="1396" height="286" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600877014345" />
+    <state width="1396" height="286" key="GridCell.Tab.1.center" timestamp="1600877014343">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="286" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1600822073121" />
-    <state width="1396" height="286" key="GridCell.Tab.1.left" timestamp="1600822073120">
+    <state width="1396" height="286" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1600877014343" />
+    <state width="1396" height="286" key="GridCell.Tab.1.left" timestamp="1600877014343">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="286" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1600822073120" />
-    <state width="1396" height="286" key="GridCell.Tab.1.right" timestamp="1600822073121">
+    <state width="1396" height="286" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1600877014343" />
+    <state width="1396" height="286" key="GridCell.Tab.1.right" timestamp="1600877014344">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="286" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1600822073121" />
-    <state x="221" y="86" key="SettingsEditor" timestamp="1600290082104">
+    <state width="1396" height="286" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1600877014344" />
+    <state x="221" y="86" key="SettingsEditor" timestamp="1600878022171">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600290082104" />
+    <state x="221" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600878022171" />
     <state x="517" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600563762580">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -499,6 +504,7 @@
     <SUITE FILE_PATH="coverage/algoritms$sortArrayByParity.coverage" NAME="sortArrayByParity Coverage Results" MODIFIED="1600487888422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/algoritms$desinationCity.coverage" NAME="desinationCity Coverage Results" MODIFIED="1600466788764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$fizzBuzzzzzz.coverage" NAME="fizzBuzzzzzz Coverage Results" MODIFIED="1600555597593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/algoritms$frickFractions.coverage" NAME="frickFractions Coverage Results" MODIFIED="1600904731167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
     <SUITE FILE_PATH="coverage/leetcodestuff$shuffe.coverage" NAME="shuffe Coverage Results" MODIFIED="1600138572583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$numOfStepsToReachZero.coverage" NAME="numOfStepsToReachZero Coverage Results" MODIFIED="1600464782470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$jewelsAndStones.coverage" NAME="jewelsAndStones Coverage Results" MODIFIED="1600454012504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -522,6 +528,6 @@
     <SUITE FILE_PATH="coverage/leetcodestuff$removeOuterParentheses.coverage" NAME="removeOuterParentheses Coverage Results" MODIFIED="1600144374178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$defangIp.coverage" NAME="defangIp Coverage Results" MODIFIED="1600291993964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$numsmaller.coverage" NAME="numsmaller Coverage Results" MODIFIED="1600389366848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritms$reverseInts.coverage" NAME="reverseInts Coverage Results" MODIFIED="1600873100300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/algoritms$reverseInts.coverage" NAME="reverseInts Coverage Results" MODIFIED="1600876770304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
   </component>
 </project>
