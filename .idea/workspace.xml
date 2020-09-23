@@ -399,6 +399,7 @@
       <workItem from="1600642896267" duration="1727000" />
       <workItem from="1600798179035" duration="18000" />
       <workItem from="1600816653466" duration="4666000" />
+      <workItem from="1600872863299" duration="491000" />
     </task>
     <servers />
   </component>
@@ -426,30 +427,30 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="507" y="208" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1600290076530" />
-    <state width="1396" height="286" key="GridCell.Tab.0.bottom" timestamp="1600822073120">
+    <state width="1396" height="196" key="GridCell.Tab.0.bottom" timestamp="1600873885380">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1876" height="230" key="GridCell.Tab.0.bottom/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600489671679" />
     <state width="1396" height="192" key="GridCell.Tab.0.bottom/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600640710065" />
-    <state width="1396" height="286" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600822073120" />
-    <state width="1396" height="286" key="GridCell.Tab.0.center" timestamp="1600822073119">
+    <state width="1396" height="196" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600873885380" />
+    <state width="1396" height="196" key="GridCell.Tab.0.center" timestamp="1600873885379">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1876" height="230" key="GridCell.Tab.0.center/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600489671678" />
     <state width="1396" height="192" key="GridCell.Tab.0.center/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600640710064" />
-    <state width="1396" height="286" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600822073119" />
-    <state width="1396" height="286" key="GridCell.Tab.0.left" timestamp="1600822073119">
+    <state width="1396" height="196" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600873885379" />
+    <state width="1396" height="196" key="GridCell.Tab.0.left" timestamp="1600873885377">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1876" height="230" key="GridCell.Tab.0.left/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600489671677" />
     <state width="1396" height="192" key="GridCell.Tab.0.left/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600640710063" />
-    <state width="1396" height="286" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600822073119" />
-    <state width="1396" height="286" key="GridCell.Tab.0.right" timestamp="1600822073120">
+    <state width="1396" height="196" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600873885377" />
+    <state width="1396" height="196" key="GridCell.Tab.0.right" timestamp="1600873885379">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1876" height="230" key="GridCell.Tab.0.right/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600489671679" />
     <state width="1396" height="192" key="GridCell.Tab.0.right/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600640710064" />
-    <state width="1396" height="286" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600822073120" />
+    <state width="1396" height="196" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600873885379" />
     <state width="1396" height="286" key="GridCell.Tab.1.bottom" timestamp="1600822073121">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -508,6 +509,7 @@
     <SUITE FILE_PATH="coverage/leetcodestuff$main.coverage" NAME="fib Coverage Results" MODIFIED="1600137391838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$islandPerimeter.coverage" NAME="islandPerimeter Coverage Results" MODIFIED="1600817976315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/algoritms$tribinnoci.coverage" NAME="tribinnoci Coverage Results" MODIFIED="1600488691438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/algoritms$pyramid.coverage" NAME="pyramid Coverage Results" MODIFIED="1600872996781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/algoritms$floodFill.coverage" NAME="floodFill Coverage Results" MODIFIED="1600820946502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/algoritms$sum2darray.coverage" NAME="sum2darray Coverage Results" MODIFIED="1600291295909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$numOfStudentsDoingHomework.coverage" NAME="numOfStudentsDoingHomework Coverage Results" MODIFIED="1600455019957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -520,5 +522,6 @@
     <SUITE FILE_PATH="coverage/leetcodestuff$removeOuterParentheses.coverage" NAME="removeOuterParentheses Coverage Results" MODIFIED="1600144374178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$defangIp.coverage" NAME="defangIp Coverage Results" MODIFIED="1600291993964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$numsmaller.coverage" NAME="numsmaller Coverage Results" MODIFIED="1600389366848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritms$reverseInts.coverage" NAME="reverseInts Coverage Results" MODIFIED="1600873100300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
   </component>
 </project>

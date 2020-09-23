@@ -1,5 +1,7 @@
 def reverseInts(num):
-    return int(str(num)[::-1])
+    look, at = divmod(num, 10)
+    me, go = divmod(look, 10)
+    return at*10**2 + go*10*1 + me*10**0
 
 
 print(reverseInts(543))
