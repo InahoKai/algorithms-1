@@ -16,6 +16,8 @@ from typing import List
 
 def floodFill(image: List[List[int]], sr: int, sc: int, newColor: int) -> List[List[int]]:
     start = image[sr][sc]
+    if start == newColor:
+        return image
 
     def dfs(row, col, g):
         s = [(row, col)]
