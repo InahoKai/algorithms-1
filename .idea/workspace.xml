@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f56b9056-4c01-4c53-86a5-bc1efc744285" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/frickFractions.py" beforeDir="false" afterPath="$PROJECT_DIR$/medium/frickFractions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -404,7 +404,7 @@
       <workItem from="1600877997701" duration="26000" />
       <workItem from="1600885185938" duration="6886000" />
       <workItem from="1600892992971" duration="689000" />
-      <workItem from="1600904668883" duration="155000" />
+      <workItem from="1600904668883" duration="547000" />
     </task>
     <servers />
   </component>
@@ -432,30 +432,30 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="507" y="208" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1600290076530" />
-    <state width="1396" height="196" key="GridCell.Tab.0.bottom" timestamp="1600904731183">
+    <state width="1396" height="196" key="GridCell.Tab.0.bottom" timestamp="1600905074957">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1876" height="196" key="GridCell.Tab.0.bottom/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600891031168" />
     <state width="1396" height="192" key="GridCell.Tab.0.bottom/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600640710065" />
-    <state width="1396" height="196" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600904731183" />
-    <state width="1396" height="196" key="GridCell.Tab.0.center" timestamp="1600904731181">
+    <state width="1396" height="196" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600905074957" />
+    <state width="1396" height="196" key="GridCell.Tab.0.center" timestamp="1600905074955">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1876" height="196" key="GridCell.Tab.0.center/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600891031166" />
     <state width="1396" height="192" key="GridCell.Tab.0.center/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600640710064" />
-    <state width="1396" height="196" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600904731181" />
-    <state width="1396" height="196" key="GridCell.Tab.0.left" timestamp="1600904731180">
+    <state width="1396" height="196" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600905074955" />
+    <state width="1396" height="196" key="GridCell.Tab.0.left" timestamp="1600905074954">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1876" height="196" key="GridCell.Tab.0.left/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600891031165" />
     <state width="1396" height="192" key="GridCell.Tab.0.left/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600640710063" />
-    <state width="1396" height="196" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600904731180" />
-    <state width="1396" height="196" key="GridCell.Tab.0.right" timestamp="1600904731182">
+    <state width="1396" height="196" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600905074954" />
+    <state width="1396" height="196" key="GridCell.Tab.0.right" timestamp="1600905074956">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1876" height="196" key="GridCell.Tab.0.right/0.0.1440.900/-247.-1200.1920.1200@-247.-1200.1920.1200" timestamp="1600891031167" />
     <state width="1396" height="192" key="GridCell.Tab.0.right/0.0.1440.900/-247.-1200.1920.1200@0.0.1440.900" timestamp="1600640710064" />
-    <state width="1396" height="196" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600904731182" />
+    <state width="1396" height="196" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600905074956" />
     <state width="1396" height="286" key="GridCell.Tab.1.bottom" timestamp="1600877014345">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -504,7 +504,7 @@
     <SUITE FILE_PATH="coverage/algoritms$sortArrayByParity.coverage" NAME="sortArrayByParity Coverage Results" MODIFIED="1600487888422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/algoritms$desinationCity.coverage" NAME="desinationCity Coverage Results" MODIFIED="1600466788764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$fizzBuzzzzzz.coverage" NAME="fizzBuzzzzzz Coverage Results" MODIFIED="1600555597593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/algoritms$frickFractions.coverage" NAME="frickFractions Coverage Results" MODIFIED="1600904731167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/algoritms$frickFractions.coverage" NAME="frickFractions Coverage Results" MODIFIED="1600905074943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
     <SUITE FILE_PATH="coverage/leetcodestuff$shuffe.coverage" NAME="shuffe Coverage Results" MODIFIED="1600138572583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$numOfStepsToReachZero.coverage" NAME="numOfStepsToReachZero Coverage Results" MODIFIED="1600464782470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritms$jewelsAndStones.coverage" NAME="jewelsAndStones Coverage Results" MODIFIED="1600454012504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

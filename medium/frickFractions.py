@@ -3,22 +3,21 @@ import decimal
 
 
 def frick_fractions(N, D):
-    res = [str(N // D) + "."]
-    subres = [N % D]
-    N %= D
+    new = [f'{N // D}.']
+    decimals = [N % D]
+    N % D
     while N != 0:
         N *= 10
         result_digit, N = divmod(N, D)
-        res.append(str(result_digit))
-
-        if N not in subres:
-            subres.append(N)
+        new.append(str(result_digit))
+        if N not in decimals:
+            decimals.append(N)
         else:
-            res.insert(subres.index(N) + 1, "(")
-            res.append(")")
+            new.insert(decimals.index(N) + 1, '(')
+            new.append(')')
             break
-    return "".join(res)
+    return ''.join(new)
 
 
 print(frick_fractions(500, 501))
-print(frick_fractions(1, 3))
+print(frick_fractions(1, 7))
