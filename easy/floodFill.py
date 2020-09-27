@@ -37,4 +37,4 @@ def floodFill(image: List[List[int]], sr: int, sc: int, newColor: int) -> List[L
     return dfs(sr, sc, image)
 
 
-print(floodFill([[2,2,2],[2,2,0],[2,0,1]], 1, 1, 2))
+print(floodFill([[0, 0, 1], [0, 2, 0], [0, 4, 0]], 1, 1, 5))

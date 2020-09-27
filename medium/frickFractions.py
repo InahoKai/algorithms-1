@@ -1,5 +1,4 @@
 # Description: Given a two parameters of type integer 'N', 'D', return a string of the decimal representation where N is the numerator and D is the denominator. If the decimal has a repeating sequence of digits, indicate the sequence by enclosing it in brackets. Use xxx.0 to denote an integer.
-import decimal
 
 
 def frick_fractions(N, D):
